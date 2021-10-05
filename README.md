@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hidemirel I have two king son  (My home king)
+- 👋 Hi, I’m @hidemirel I have father's of two king son  (My home's king)
 - 👀 I’m interested in Artifical Intelligence & Machine Learning and Python software language.
 - 🌱 I’m currently learning  ML algorithms , AWS, Django, REST API and Backend development.
 - 💞️ I’m looking to collaborate on AI and ML projects or web development with Django framework.
