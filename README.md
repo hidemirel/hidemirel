@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hidemirel
 - 👀 I’m interested in AI & ML and Python software language.
 - 🌱 I’m currently learning  ML algorithm , AWS, Django, REST API and Backend development.
-- 💞️ I’m looking to collaborate on AI and ML project or web development with Django framework.
+- 💞️ I’m looking to collaborate on AI and ML projects or web development with Django framework.
 - 📫 How to reach me 
 halil.i.demirel@gmail.com
 
