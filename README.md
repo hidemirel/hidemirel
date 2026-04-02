@@ -10,7 +10,7 @@ Rapid Prototyping — From concept to working pilot in weeks, not months
 AI-Assisted Development — Claude Code as a daily production tool for accelerated delivery
 
 Current Work
-ProWry — Multi-agent grant writing SaaS for Turkish SMEs (TÜBİTAK, KOSGEB). Built with custom Python orchestration, FastAPI, Redis, Supabase, pgvector. Features conversational AI chatbot, automated grant analysis agents, and real-time dashboards.
+ProWry — Multi-agent grant writing SaaS for B2B. Built with custom Python orchestration, FastAPI, Redis, Supabase, pgvector. Features conversational AI chatbot, automated grant analysis agents, and real-time dashboards.
 Hidstech Ltd — AI engineering studio delivering tailor-made AI solutions, custom web/mobile apps, and rapid prototyping engagements.
 Tech Stack
 Python FastAPI Redis Supabase PostgreSQL pgvector Docker AWS GCP Claude Code RAG Vector Search Agentic AI TensorFlow PyTorch Scikit-learn
